@@ -29,6 +29,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
+    <h4>☕Coffee Blog</h4>
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/398dfdf4-7e68-4c39-add0-e2f74f22458c"   alt="VIDEO" /></a>
@@ -36,18 +37,27 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
     <p align="center">
        <a href="https://blogdecafecarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a>
       <a href="https://github.com/CarlosOviedo18/BlogDeCafe" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+    </p>  
+      <p>Responsive made with pure HTML and CSS.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css" height="25" />
+      </p>
 </td>
   
 <td width="25%" align="center">
+   <h4>🎵 Music Fetival</h4>
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/a3b017dc-3322-473f-bf60-fbba10d3008b"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/d3455e42-87c1-4009-8fdb-52af874c864f"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://festivalmusicacarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a>
       <a href="https://github.com/CarlosOviedo18/-Music-Festival" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+    </p> 
+  <p>Landing page for a musical event</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,scss" height="25" />
+      </p>
 </td>
   
   <td width="25%" align="center">
