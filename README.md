@@ -34,7 +34,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="![SEE PAGE](https://img.shields.io/badge/👁️‍🗨️_SEE_PAGE-blue?style=for-the-badge)"  /></a>
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/SeePage-white"  /></a>
       <a href="https://github.com/CarlosOviedo18/BlogDeCafe" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
