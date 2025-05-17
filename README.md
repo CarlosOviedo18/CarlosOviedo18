@@ -31,7 +31,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/398dfdf4-7e68-4c39-add0-e2f74f22458c"   alt="VIDEO" /></a>
       </p>
     <p align="center">
        <a href="https://blogdecafecarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a>
