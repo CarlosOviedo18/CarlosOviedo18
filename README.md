@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋  Carlos Oviedo  </h1> 
+<h1 align="center">I'm Carlos Oviedo</h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-oviedo-256ab0266/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -19,7 +19,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,vscode,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,css,html,js,wordpress,nodejs,mysql,sqlite,git,github,vscode,linux,notion,figma,visualstudio" />
   </a>
 </p>
 <br>
