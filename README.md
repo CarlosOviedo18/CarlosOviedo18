@@ -29,9 +29,9 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
-    <h4>☕Coffee Blog</h4>
+    <h4>☕ Coffee Blog</h4>
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+     <a href="#" title="Go to Source">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/398dfdf4-7e68-4c39-add0-e2f74f22458c"   alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -47,7 +47,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 <td width="25%" align="center">
    <h4>🎵 Music Fetival</h4>
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+     <a href="#" title="Go to Source">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/d3455e42-87c1-4009-8fdb-52af874c864f"   alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -59,28 +59,23 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
         <img src="https://skillicons.dev/icons?i=html,css,js,scss" height="25" />
       </p>
 </td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
 
-   <td width="25%" align="center">
+<td width="25%" align="center">
+   <h4>💻​ Interactive WebApp JS</h4>
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+     <a href="#" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/705eb9c1-fb1f-4595-87a6-109acdb72347"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+        <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a>
+      <a href="https://github.com/CarlosOviedo18/InteractiveWebAppJS" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p> 
+  <p>Responsive Interactive WebApp JSt</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js" height="25" />
+      </p>
 </td>
+  
   
 </tr>
 </table>
