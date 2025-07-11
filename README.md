@@ -94,16 +94,17 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 <div align="center">
 
   <!-- Fila 1: Streak + Stats -->
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=CarlosOviedo18&theme=dark&hide_border=true" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=dark" />
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=CarlosOviedo18&theme=dark&hide_border=true&cache_seconds=3600" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=dark&cache_seconds=3600" />
+    </td>
+  </tr>
+</table>
+
 
   <!-- Fila 2: Lenguajes + Trofeos (versión agrandada) -->
   <table width="100%">
