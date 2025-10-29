@@ -10,7 +10,7 @@
 <p align="left">
 Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I enjoy building clean, functional, and visually engaging web interfaces. I'm passionate about learning new things across different areas and always aim to improve my skills. I'm curious, proactive, and I love turning ideas into real, useful experiences.
 
-📫 Contacto: **caantoni24@gmail.com**
+📫 Contact: **caantoni24@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -77,7 +77,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 </td>
 
 <td width="25%" align="center">
-   <h4>Supermarket-FullStack-Java</h4>
+   <h4>⚙ Supermarket-FullStack-Java</h4>
     <p align="center">
      <a href="#" title="Go to Source">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6"   alt="IMG" /></a>
