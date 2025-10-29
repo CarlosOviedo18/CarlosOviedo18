@@ -54,7 +54,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
         <a href="https://festivalmusicacarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a>
       <a href="https://github.com/CarlosOviedo18/-Music-Festival" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p> 
-  <p>Landing page for a musical event</p>
+  <p>Landing page for a musical event.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=html,css,js,scss" height="25" />
       </p>
@@ -70,13 +70,30 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
         <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a>
       <a href="https://github.com/CarlosOviedo18/InteractiveWebAppJS" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p> 
-  <p>Responsive Interactive WebApp JSt</p>
+  <p>Responsive Interactive WebApp JSt.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=html,css,js" height="25" />
       </p>
 </td>
-  
-  
+
+<td width="25%" align="center">
+   <h4>Supermarket-FullStack-Java</h4>
+    <p align="center">
+     <a href="#" title="Go to Source">
+        <img align="center" width=100% src=""   alt="IMG" /></a>
+      </p>
+    <p align="center">
+        <!-- <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a> -->
+      <a href="https://github.com/CarlosOviedo18/Supermarket-FullStack-Java" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p> 
+  <p>Aplicación Full Stack de gestión de supermercado con Java.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,html,css" height="25" />
+      </p>
+</td>
+
+
+
 </tr>
 </table>
   </div>
