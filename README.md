@@ -80,7 +80,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
    <h4>Supermarket-FullStack-Java</h4>
     <p align="center">
      <a href="#" title="Go to Source">
-        <img align="center" width=100% src=""   alt="IMG" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6"   alt="IMG" /></a>
       </p>
     <p align="center">
         <!-- <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/See Page-FFFFFF?style=for-the-badge&" alt="@unsimpledev" /></a> -->
