@@ -107,6 +107,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 
 
   <!-- Fila 2: Lenguajes + Trofeos (versión agrandada) -->
+  <!------------------------->
   <table width="100%">
     <tr>
       <td width="40%" align="center">
@@ -114,12 +115,12 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
       </td>
       <td width="60%" align="center">
         <!-- Contenedor ampliado para trofeos -->
+        <!------------------------->
         <img width="90%" src="https://github-profile-trophy.vercel.app/?username=CarlosOviedo18&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=0" />
       </td>
     </tr>
   </table>
 
-  <!-- Gráfico de actividad -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosOviedo18&theme=github-dark&custom_title=Mi%20Actividad&hide_border=true" />
+ 
 
 </div>
