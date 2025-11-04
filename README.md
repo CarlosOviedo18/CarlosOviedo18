@@ -106,6 +106,7 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 <!------------------------->
 
 
+
 <h2 align="center">GitHub Stats :octocat:</h2>
 
 <div align="center">
@@ -114,13 +115,11 @@ Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=CarlosOviedo18&theme=dark&hide_border=true&cache_seconds=3600" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=dark&cache_seconds=3600" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
+
 
 
   <!-- Fila 2: Lenguajes + Trofeos (versión agrandada) -->
