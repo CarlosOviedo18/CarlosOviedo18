@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 <!--Intro start-->
 <p align="left">
-Hi! I'm Carlos, a creative and motivated front-end enthusiast from Costa Rica. I enjoy building clean, functional, and visually engaging web interfaces. I'm passionate about learning new things across different areas and always aim to improve my skills. I'm curious, proactive, and I love turning ideas into real, useful experiences.
+Hi! I'm Carlos, a creative and motivated full-stack developer in progress from Costa Rica. I enjoy building clean, functional, and visually engaging web interfaces, while also developing the backend logic that brings ideas to life. I'm passionate about continuous learning, problem solving, and crafting real, useful experiences with code.
 
 📫 Contact: **caantoni24@gmail.com**
 <!--Intro end-->
