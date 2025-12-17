@@ -19,7 +19,7 @@ Hi! I'm Carlos, a creative and motivated full-stack developer in progress from C
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,css,html,js,wordpress,nodejs,mysql,sqlite,git,github,vscode,linux,notion,figma,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,css,html,js,wordpress,nodejs,react,mysql,sqlite,git,github,vscode,linux,notion,figma,visualstudio" />
   </a>
 </p>
 <br>
