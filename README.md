@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-oviedo-135a1426b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<!-- <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a> -->
   </p>
 <br>
 <h2>About Me</h2>
@@ -10,7 +10,7 @@
 <p align="left">
 Hi! I'm Carlos, a creative and motivated full-stack developer in progress from Costa Rica. I enjoy building clean, functional, and visually engaging web interfaces, while also developing the backend logic that brings ideas to life. I'm passionate about continuous learning, problem solving, and crafting real, useful experiences with code.
 
-📫 Contact: **caantoni24@gmail.com**
+📫 Contact: **carlos.oviedo18@hotmail.com **
 <!--Intro end-->
   </p>
 <br>
@@ -110,33 +110,10 @@ Hi! I'm Carlos, a creative and motivated full-stack developer in progress from C
 <h2 align="center">GitHub Stats :octocat:</h2>
 
 <div align="center">
-
-  <!-- Fila 1: Streak + Stats -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-
-
-  <!-- Fila 2: Lenguajes + Trofeos (versión agrandada) -->
-  <!------------------------->
-  <table width="100%">
-    <tr>
-      <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&theme=dark&layout=compact&langs_count=8" />
-      </td>
-      <td width="60%" align="center">
-        <!-- Contenedor ampliado para trofeos -->
-        <!------------------------->
-        <img width="90%" src="https://github-profile-trophy.vercel.app/?username=CarlosOviedo18&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=0" />
-      </td>
-    </tr>
-  </table>
-
- 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosOviedo18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CarlosOviedo18/CarlosOviedo18/output/snake.svg" alt="Snake animation" />
