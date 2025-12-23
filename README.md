@@ -83,6 +83,24 @@
     <img src="https://skillicons.dev/icons?i=java,html,css" height="20" />
   </td>
 </tr>
+
+<td width="25%" align="center" style="background-color: #0d1117; border: 1px dashed #00d2ff; border-radius: 10px;">
+  <h4 style="color: #00d2ff;">🚀 Coming Soon</h4>
+
+  <img width="100%" 
+       src="https://dummyimage.com/600x400/0d1117/00d2ff&text=Coming+Soon" 
+       style="border-radius: 8px;" />
+
+  <p style="color: #8b949e; font-size: 14px;">
+    <br>
+    Fullstack project in progress<br>
+    (Front + Backend)
+  </p>
+
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" height="20" />
+</td>
+
+
 </table>
 
 <br><br>
