@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p><strong>🚀 Full-Stack Developer en formación | Crafting Digital Experiences</strong></p>
+  <p><strong>🚀 Full-Stack Developer en formación | Building Web Applications</strong></p>
   <a href="https://www.linkedin.com/in/carlos-oviedo-135a1426b/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -26,7 +26,7 @@
       </p>
     </td>
     <td width="45%" align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,nodejs,react,mysql,html,css,scss,wordpress,git,linux,figma,vscode&perline=6" />
+     <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,nodejs,express,react,mysql,html,css,scss,git,linux,figma,vscode,wordpress&perline=6"/>
     </td>
   </tr>
 </table>
