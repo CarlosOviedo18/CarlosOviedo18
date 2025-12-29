@@ -102,9 +102,13 @@
 <h2 align="center">📊 Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=react&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&layout=compact&theme=react&hide_border=true" height="180"/>
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&theme=shadow_blue&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=CarlosOviedo18&theme=shadow_blue&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&theme=shadow_blue&hide_border=false&layout=compact)
+
 
 <p align="center">
   💡 Always learning • Building • Improving
