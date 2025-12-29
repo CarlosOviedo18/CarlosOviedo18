@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p><strong>🚀 Full-Stack Developer en formación | Building Web Applications</strong></p>
+  <p><strong>🚀 Full-Stack Developer in training | Building Web Applications</strong></p>
   <a href="https://www.linkedin.com/in/carlos-oviedo-135a1426b/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -19,34 +19,34 @@
     <td width="55%" style="border: none;">
       <img src="https://img.shields.io/badge/About%20Me-0077B5?style=for-the-badge&logo=about.me&logoColor=white" />
       <p>
-        ¡Hola! Soy un desarrollador creativo de <b>Costa Rica</b> 🇨🇷. Me enfoco en construir interfaces web limpias y funcionales, combinando un diseño visual atractivo con una lógica de backend sólida. 
+        Hi! I'm a creative developer from <b>Costa Rica</b> 🇨🇷. I focus on building clean and functional web interfaces, combining attractive visual design with solid backend logic.
       </p>
       <p>
-        Me apasiona transformar ideas en experiencias digitales reales y útiles mediante el aprendizaje continuo de nuevas tecnologías.
+        I'm passionate about turning ideas into real and useful digital experiences through continuous learning and modern technologies.
       </p>
     </td>
     <td width="45%" align="center" style="border: none;">
-     <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,nodejs,express,react,mysql,html,css,scss,git,linux,figma,vscode,wordpress&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,nodejs,express,react,mysql,html,css,scss,git,linux,figma,vscode,wordpress&perline=6"/>
     </td>
   </tr>
 </table>
 
 <br />
 
-<h2 align="center">🔹 Actividad en GitHub 🔹</h2>
+<h2 align="center">🔹 GitHub Activity 🔹</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/CarlosOviedo18/CarlosOviedo18/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br />
 
-<h2 align="center">📂 Proyectos Destacados 📂</h2>
+<h2 align="center">📂 Featured Projects 📂</h2>
 
 <table align="center">
 <tr>
-  <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #00d2ff; border-radius: 10px;">
-    <h4 style="color: #00d2ff;">☕ Coffee Blog</h4>
-    <img width="100%" src="https://github.com/user-attachments/assets/398dfdf4-7e68-4c39-add0-e2f74f22458c" style="border-radius: 8px;" />
+  <td width="25%" align="center">
+    <h4>☕ Coffee Blog</h4>
+    <img width="100%" src="https://github.com/user-attachments/assets/398dfdf4-7e68-4c39-add0-e2f74f22458c" />
     <p><br>
       <a href="https://blogdecafecarlosoviedo.netlify.app/"><img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square&logoColor=white" /></a>
       <a href="https://github.com/CarlosOviedo18/BlogDeCafe"><img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github" /></a>
@@ -54,9 +54,9 @@
     <img src="https://skillicons.dev/icons?i=html,css" height="20" />
   </td>
   
-  <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #00d2ff; border-radius: 10px;">
-    <h4 style="color: #00d2ff;">🎵 Music Festival</h4>
-    <img width="100%" src="https://github.com/user-attachments/assets/d3455e42-87c1-4009-8fdb-52af874c864f" style="border-radius: 8px;" />
+  <td width="25%" align="center">
+    <h4>🎵 Music Festival</h4>
+    <img width="100%" src="https://github.com/user-attachments/assets/d3455e42-87c1-4009-8fdb-52af874c864f" />
     <p><br>
       <a href="https://festivalmusicacarlosoviedo.netlify.app/"><img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square&logoColor=white" /></a>
       <a href="https://github.com/CarlosOviedo18/-Music-Festival"><img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github" /></a>
@@ -64,9 +64,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,scss" height="20" />
   </td>
 
-  <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #00d2ff; border-radius: 10px;">
-    <h4 style="color: #00d2ff;">💻 WebApp JS</h4>
-    <img width="100%" src="https://github.com/user-attachments/assets/705eb9c1-fb1f-4595-87a6-109acdb72347" style="border-radius: 8px;" />
+  <td width="25%" align="center">
+    <h4>💻 WebApp JS</h4>
+    <img width="100%" src="https://github.com/user-attachments/assets/705eb9c1-fb1f-4595-87a6-109acdb72347" />
     <p><br>
       <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/"><img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square&logoColor=white" /></a>
       <a href="https://github.com/CarlosOviedo18/InteractiveWebAppJS"><img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github" /></a>
@@ -74,9 +74,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js" height="20" />
   </td>
 
-  <td width="25%" align="center" style="background-color: #0d1117; border: 1px solid #00d2ff; border-radius: 10px;">
-    <h4 style="color: #00d2ff;">⚙ Supermarket</h4>
-    <img width="100%" src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6" style="border-radius: 8px;" />
+  <td width="25%" align="center">
+    <h4>⚙ Supermarket</h4>
+    <img width="100%" src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6" />
     <p><br>
       <a href="https://github.com/CarlosOviedo18/Supermarket-FullStack-Java"><img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github" /></a>
     </p>
@@ -84,30 +84,29 @@
   </td>
 </tr>
 
-<td width="25%" align="center" style="background-color: #0d1117; border: 1px dashed #00d2ff; border-radius: 10px;">
-  <h4 style="color: #00d2ff;">🚀 Coming Soon</h4>
-
-  <img width="100%" 
-       src="https://dummyimage.com/600x400/0d1117/00d2ff&text=Coming+Soon" 
-       style="border-radius: 8px;" />
-
-  <p style="color: #8b949e; font-size: 14px;">
-    <br>
-    Fullstack project in progress<br>
-    (Front + Backend)
-  </p>
-
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" height="20" />
-</td>
-
-
+<tr>
+  <td width="25%" align="center">
+    <h4>🚀 Coming Soon</h4>
+    <img width="100%" src="https://dummyimage.com/600x400/0d1117/00d2ff&text=Coming+Soon" />
+    <p>
+      Full-stack project in progress<br>
+      (Frontend + Backend)
+    </p>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" height="20" />
+  </td>
+</tr>
 </table>
 
 <br><br>
 
-<h2 align="center">📊 Estadísticas 📊</h2>
+<h2 align="center">📊 Stats 📊</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=react&count_private=true&include_all_commits=true&border_color=00d2ff&icon_color=00d2ff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&layout=compact&theme=react&border_color=00d2ff&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&layout=compact&theme=react&hide_border=true" height="180"/>
 </div>
+
+<p align="center">
+  💡 Always learning • Building • Improving
+</p>
 
