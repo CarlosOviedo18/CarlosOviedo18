@@ -99,18 +99,18 @@
 
 <br><br>
 
-<h2 align="center">📊 Stats 📊</h2>
+<h2 align="center">📊Stats📊</h2>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&theme=shadow_blue&hide_border=false)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&theme=shadow_blue&hide_border=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=CarlosOviedo18&theme=shadow_blue&hide_border=false)
+![Carlos's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CarlosOviedo18&theme=shadow_blue&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&theme=shadow_blue&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&theme=shadow_blue&hide_border=false&layout=compact)
 
+</div>
 
 <p align="center">
   💡 Always learning • Building • Improving
 </p>
-
