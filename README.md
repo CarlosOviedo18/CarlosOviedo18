@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h1 style="font-weight:600;">Carlos Oviedo</h1>
+  <h1 style="font-weight:600;">Carlos Oviedo Ballestero</h1>
   <p><strong>Full-Stack Developer in Progress</strong></p>
   <p>Building clean, modern and functional web applications</p>
 </div>
@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:carlos.oviedo18@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Costa%20Rica-success?style=for-the-badge"/>
 </p>
 
@@ -42,13 +42,13 @@
     </td>
     <td width="45%" align="center" style="border: none;">
       <h2> Tech Stack</h2>
-      <p><b>Frontend</b></p>
+      <p><b>Frontend:</b></p>
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,react"/>
-      <p><b>Backend</b></p>
+      <p><b>Backend:</b></p>
       <img src="https://skillicons.dev/icons?i=nodejs,express,java,php"/>
-      <p><b>Database</b></p>
+      <p><b>Database:</b></p>
       <img src="https://skillicons.dev/icons?i=mysql"/>
-      <p><b>Tools</b></p>
+      <p><b>Tools:</b></p>
       <img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,wordpress"/>
     </td>
   </tr>
