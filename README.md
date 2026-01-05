@@ -27,7 +27,7 @@
 <table align="center" border="0">
   <tr>
     <td width="55%" style="border: none; vertical-align: top;">
-      <h2>👨‍💻 About Me</h2>
+      <h2> About Me</h2>
       <p>
         Hi! I'm a creative developer from <b>Costa Rica</b> 🇨🇷. I focus on building clean and functional web interfaces,
         combining attractive visual design with solid backend logic.
@@ -41,7 +41,7 @@
       </p>
     </td>
     <td width="45%" align="center" style="border: none;">
-      <h2>🛠 Tech Stack</h2>
+      <h2> Tech Stack</h2>
       <p><b>Frontend</b></p>
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,react"/>
       <p><b>Backend</b></p>
@@ -56,7 +56,7 @@
 
 <br/>
 
-<h2 align="center">📂 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <table align="center">
 <tr>
@@ -133,7 +133,7 @@
 
 <br/>
 
-<h3 align="center">🎯 Current Focus</h3>
+<h3 align="center"> Current Focus</h3>
 
 <p align="center">
   • React & modern JavaScript<br/>
