@@ -2,6 +2,7 @@
 <div style="font-family: 'Poppins', sans-serif;">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 
+
 <div align="center">
   <h1 style="font-weight:600;">Carlos Oviedo Ballestero</h1>
   <p><strong>Full-Stack Developer in Progress</strong></p>
