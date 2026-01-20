@@ -44,9 +44,9 @@
     <td width="45%" align="center" style="border: none;">
       <h2> Tech Stack</h2>
       <p><b>Frontend:</b></p>
-      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react"/>
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,vite"/>
       <p><b>Backend:</b></p>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,php"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,dotnet,cs"/>
       <p><b>Database:</b></p>
       <img src="https://skillicons.dev/icons?i=mysql"/>
       <p><b>Tools:</b></p>
