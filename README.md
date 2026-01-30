@@ -120,15 +120,15 @@
 </tr>
 
 <tr>
-  <td width="25%" align="center">
-    <h4>🚀 Coming Soon</h4>
-    <img width="100%" src="https://dummyimage.com/600x400/0d1117/00d2ff&text=Coming+Soon"/>
-    <p>
-      Full-stack project in progress<br/>
-      (React + Node.js + MySQL)
-    </p>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" height="20"/>
-  </td>
+ <td width="25%" align="center">
+  <h4>☕ Sircof Coffee – E-commerce Platform</h4>
+  <img width="100%" src="https://dummyimage.com/600x400/0d1117/00d2ff&text=Sircof+Coffee+E-commerce"/>
+  <p>
+    Full-stack e-commerce platform developed as a real-world business project.<br/>
+    Product catalog, shopping cart, secure payments and admin logic.
+  </p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git" height="20"/>
+</td>
 </tr>
 </table>
 
