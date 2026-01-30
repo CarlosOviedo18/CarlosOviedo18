@@ -122,7 +122,7 @@
 <tr>
  <td width="25%" align="center">
   <h4>☕ Sircof Coffee – E-commerce Platform</h4>
-  <img width="100%" src="https://dummyimage.com/600x400/0d1117/00d2ff&text=Sircof+Coffee+E-commerce"/>
+  <img width="100%" alt="home" src="https://github.com/user-attachments/assets/ce87d58f-2662-4294-a68b-b30113e12de9" />
   <p>
     Full-stack e-commerce platform developed as a real-world business project.<br/>
     Product catalog, shopping cart, secure payments and admin logic.
