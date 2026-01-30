@@ -127,6 +127,14 @@
     Full-stack e-commerce platform developed as a real-world business project.<br/>
     Product catalog, shopping cart, secure payments and admin logic.
   </p>
+    <p>
+      <a href="">
+        <img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square"/>
+      </a>
+      <a href="https://github.com/CarlosOviedo18/sircof-ecommerce">
+        <img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github"/>
+      </a>
+    </p>
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git" height="20"/>
 </td>
 </tr>
