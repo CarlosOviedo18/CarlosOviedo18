@@ -51,6 +51,8 @@
       <img src="https://skillicons.dev/icons?i=mysql"/>
       <p><b>Tools:</b></p>
       <img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,wordpress"/>
+        <p><b>Cloud & DevOps:</b></p>
+      <img src="https://skillicons.dev/icons?i=aws,docker"/>
     </td>
   </tr>
 </table>
