@@ -49,10 +49,10 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,dotnet,cs"/>
       <p><b>Database:</b></p>
       <img src="https://skillicons.dev/icons?i=mysql"/>
+      <p><b>Cloud & DevOps:</b></p>
+      <img src="https://skillicons.dev/icons?i=aws,docker"/>
       <p><b>Tools:</b></p>
       <img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,wordpress"/>
-        <p><b>Cloud & DevOps:</b></p>
-      <img src="https://skillicons.dev/icons?i=aws,docker"/>
     </td>
   </tr>
 </table>
