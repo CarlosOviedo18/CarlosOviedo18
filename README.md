@@ -1,14 +1,11 @@
 <!-- Import Poppins Font -->
 <div style="font-family: 'Poppins', sans-serif;">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
-
-
 <div align="center">
   <h1 style="font-weight:600;">Carlos Oviedo Ballestero</h1>
   <p><strong>Full-Stack Developer</strong></p>
   <p>Building clean, modern and functional web applications</p>
 </div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-oviedo-135a1426b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,14 +14,11 @@
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Costa%20Rica-success?style=for-the-badge"/>
 </p>
-
 <br/>
-
 <table align="center" border="0">
   <tr>
     <td width="55%" style="border: none; vertical-align: top;">
@@ -56,107 +50,121 @@
     </td>
   </tr>
 </table>
+<br/>
+
+<div align="center">
+<h2 align="center"> GitHub Stats</h2>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> -->
 
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosOviedo18&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+  
 <h2 align="center"> Featured Projects</h2>
-
-<table align="center">
+<!-- ═══════════════════════════════════════════════ -->
+<!-- FEATURED PROJECT – Sircof Coffee               -->
+<!-- ═══════════════════════════════════════════════ -->
+<table align="center" border="0" width="85%">
+  <tr>
+    <td width="48%" style="border: none; vertical-align: middle;">
+      <img width="100%" src="https://github.com/user-attachments/assets/ce87d58f-2662-4294-a68b-b30113e12de9" />
+    </td>
+    <td width="52%" style="border: none; vertical-align: top; padding-left: 20px;">
+      <h3> Sircof Coffee – E-commerce Platform</h3>
+      <p>Full-stack e-commerce platform developed as a real-world business project.<br/>Product catalog, shopping cart, secure payments and admin logic.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git" height="32"/>
+      <br/><br/>
+      <a href="https://sircof-ecommerce1.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐 Live Demo-00d2ff?style=for-the-badge"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/CarlosOviedo18/sircof-ecommerce">
+        <img src="https://img.shields.io/badge/📁 Repo-black?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<br/><br/>
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SMALL PROJECTS GRID                            -->
+<!-- ═══════════════════════════════════════════════ -->
+<table align="center" width="90%">
 <tr>
-  <td width="25%" align="center">
-    <h4>Coffee Blog</h4>
+  <td width="33%" align="center" style="padding: 12px;">
+    <h4> Coffee Blog</h4>
     <img width="100%" src="https://github.com/user-attachments/assets/398dfdf4-7e68-4c39-add0-e2f74f22458c" />
+    <br/><br/>
     <p>Clean and responsive blog layout focused on content structure.</p>
-    <p>
-      <a href="https://blogdecafecarlosoviedo.netlify.app/">
-        <img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square"/>
-      </a>
-      <a href="https://github.com/CarlosOviedo18/BlogDeCafe">
-        <img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github"/>
-      </a>
-    </p>
-    <img src="https://skillicons.dev/icons?i=html,css" height="20"/>
+    <img src="https://skillicons.dev/icons?i=html,css" height="32"/>
+    <br/><br/>
+    <a href="https://blogdecafecarlosoviedo.netlify.app/">
+      <img src="https://img.shields.io/badge/🌐 Demo-00d2ff?style=flat-square"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/CarlosOviedo18/BlogDeCafe">
+      <img src="https://img.shields.io/badge/📁 Repo-black?style=flat-square&logo=github"/>
+    </a>
   </td>
-
-  <td width="25%" align="center">
-    <h4>Music Festival</h4>
+  <td width="33%" align="center" style="padding: 12px;">
+    <h4> Music Festival</h4>
     <img width="100%" src="https://github.com/user-attachments/assets/d3455e42-87c1-4009-8fdb-52af874c864f" />
+    <br/><br/>
     <p>Interactive landing page with modern UI and dynamic behavior.</p>
-    <p>
-      <a href="https://festivalmusicacarlosoviedo.netlify.app/">
-        <img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square"/>
-      </a>
-      <a href="https://github.com/CarlosOviedo18/-Music-Festival">
-        <img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github"/>
-      </a>
-    </p>
-    <img src="https://skillicons.dev/icons?i=html,scss,js" height="20"/>
+    <img src="https://skillicons.dev/icons?i=html,scss,js" height="32"/>
+    <br/><br/>
+    <a href="https://festivalmusicacarlosoviedo.netlify.app/">
+      <img src="https://img.shields.io/badge/🌐 Demo-00d2ff?style=flat-square"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/CarlosOviedo18/-Music-Festival">
+      <img src="https://img.shields.io/badge/📁 Repo-black?style=flat-square&logo=github"/>
+    </a>
   </td>
-
-  <td width="25%" align="center">
-    <h4>WebApp JS</h4>
+  <td width="33%" align="center" style="padding: 12px;">
+    <h4> WebApp JS</h4>
     <img width="100%" src="https://github.com/user-attachments/assets/705eb9c1-fb1f-4595-87a6-109acdb72347" />
+    <br/><br/>
     <p>JavaScript-focused project to practice logic and DOM manipulation.</p>
-    <p>
-      <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/">
-        <img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square"/>
-      </a>
-      <a href="https://github.com/CarlosOviedo18/InteractiveWebAppJS">
-        <img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github"/>
-      </a>
-    </p>
-    <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/>
-  </td>
-
-  <td width="25%" align="center">
-    <h4>Supermarket System</h4>
-    <img width="100%" src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6" />
-    <p>Full-stack academic project focused on backend logic and CRUD operations.</p>
-    <p>
-      <a href="https://github.com/CarlosOviedo18/Supermarket-FullStack-Java">
-        <img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github"/>
-      </a>
-    </p>
-    <img src="https://skillicons.dev/icons?i=java,html,css" height="20"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js" height="32"/>
+    <br/><br/>
+    <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/">
+      <img src="https://img.shields.io/badge/🌐 Demo-00d2ff?style=flat-square"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/CarlosOviedo18/InteractiveWebAppJS">
+      <img src="https://img.shields.io/badge/📁 Repo-black?style=flat-square&logo=github"/>
+    </a>
   </td>
 </tr>
-
 <tr>
- <td width="25%" align="center">
-  <h4>Sircof Coffee – E-commerce Platform</h4>
-  <img width="100%" alt="home" src="https://github.com/user-attachments/assets/ce87d58f-2662-4294-a68b-b30113e12de9" />
-  <p>
-    Full-stack e-commerce platform developed as a real-world business project.<br/>
-    Product catalog, shopping cart, secure payments and admin logic.
-  </p>
-    <p>
-      <a href="https://sircof-ecommerce1.vercel.app/">
-        <img src="https://img.shields.io/badge/Demo-00d2ff?style=flat-square"/>
-      </a>
-      <a href="https://github.com/CarlosOviedo18/sircof-ecommerce">
-        <img src="https://img.shields.io/badge/Repo-black?style=flat-square&logo=github"/>
-      </a>
-    </p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git" height="20"/>
-</td>
+  <td colspan="3" align="center" style="padding: 12px;">
+    <h4> Supermarket System</h4>
+    <img width="32%" src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6" />
+    <br/><br/>
+    <p>Full-stack academic project focused on backend logic and CRUD operations.</p>
+    <img src="https://skillicons.dev/icons?i=java,html,css" height="32"/>
+    <br/><br/>
+    <a href="https://github.com/CarlosOviedo18/Supermarket-FullStack-Java">
+      <img src="https://img.shields.io/badge/📁 Repo-black?style=flat-square&logo=github"/>
+    </a>
+  </td>
 </tr>
 </table>
-
 <br/>
-
 <h3 align="center"> Current Focus</h3>
-
 <p align="center">
   • React & modern JavaScript<br/>
   • Building a full-stack application (React + Node.js + MySQL)<br/>
   • Writing cleaner and more maintainable code
 </p>
-
 <br/>
-
 <p align="center">
   💡 Always learning • Building • Improving
 </p>
-
 </div>
 
