@@ -4,7 +4,8 @@
 <div align="center">
   <h1 style="font-weight:600;">Carlos Oviedo Ballestero</h1>
   <p><strong>Full-Stack Developer</strong></p>
-  <p>Building clean, modern and functional web applications</p>
+  <p>Building clean, modern and functional web applicat
+  ions</p>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-oviedo-135a1426b/" target="_blank">
