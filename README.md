@@ -162,7 +162,7 @@
   <td colspan="3" align="center" style="padding: 12px;">
     <h4> Análisis de Mercado – Café de Costa Rica</h4>
     <!-- REEMPLAZA el src de abajo por la captura de tu dashboard (súbela arrastrándola al editor del README en GitHub) -->
-    <img width="55%" src="PEGA-AQUÍ-LA-IMAGEN-DEL-DASHBOARD" />
+    <img width="32%" alt="01-resumen" src="https://github.com/user-attachments/assets/553020c6-c2ff-4b22-991d-6fe3f12fd155" />
     <br/><br/>
     <p>Proyecto de inteligencia de negocios (BI) que analiza 24 tostadores de café de Costa Rica.<br/>Modelo de datos en estrella, medidas DAX y un dashboard interactivo con cumplimiento de requisitos, desempeño digital, precios y geografía.</p>
     <br/>
@@ -183,9 +183,15 @@
 <br/>
 <h3 align="center"> Enfoque actual</h3>
 <p align="center">
-  • React y JavaScript moderno<br/>
-  • Construyendo una aplicación full-stack (React + Node.js + MySQL)<br/>
-  • Escribiendo código más limpio y mantenible
+  • Desarrollo full-stack<br/>
+  • Inteligencia Artificial aplicada: LLMs, RAG y agentes<br/>
+  • Optimización de modelos y control de costos en IA
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentes_IA-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Optimización_y_Costos-217346?style=flat-square"/>
 </p>
 <br/>
 <p align="center">
