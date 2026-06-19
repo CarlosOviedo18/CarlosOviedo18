@@ -47,7 +47,7 @@
       <p><b>Cloud & DevOps:</b></p>
       <img src="https://skillicons.dev/icons?i=aws,docker"/>
       <p><b>Tools:</b></p>
-      <img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,wordpress"/>
+      <img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,wordpress,powerbi"/>
     </td>
   </tr>
 </table>
