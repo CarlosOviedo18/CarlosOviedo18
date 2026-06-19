@@ -3,9 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 <div align="center">
   <h1 style="font-weight:600;">Carlos Oviedo Ballestero</h1>
-  <p><strong>Full-Stack Developer</strong></p>
-  <p>Building clean, modern and functional web applicat
-  ions</p>
+  <p><strong>Desarrollador Full-Stack</strong></p>
+  <p>Construyo aplicaciones web limpias, modernas y funcionales</p>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-oviedo-135a1426b/" target="_blank">
@@ -16,45 +15,49 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Costa%20Rica-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Inglés-Intermedio-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ubicación-Costa%20Rica-success?style=for-the-badge"/>
 </p>
 <br/>
 <table align="center" border="0">
   <tr>
     <td width="55%" style="border: none; vertical-align: top;">
-      <h2> About Me</h2>
+      <h2> Sobre mí</h2>
       <p>
-        Hi! I'm a creative developer from <b>Costa Rica</b> 🇨🇷. I focus on building clean and functional web interfaces,
-        combining attractive visual design with solid backend logic.
+        ¡Hola! Soy un desarrollador creativo de <b>Costa Rica</b> 🇨🇷. Me enfoco en construir interfaces web limpias y funcionales,
+        combinando un diseño visual atractivo con una lógica de backend sólida.
       </p>
       <p>
-        I'm passionate about turning ideas into real and useful digital experiences through continuous learning
-        and modern technologies.
+        Me apasiona convertir ideas en experiencias digitales reales y útiles, a través del aprendizaje continuo
+        y de tecnologías modernas.
       </p>
       <p>
-        Currently improving my skills in <b>React</b>, <b>Node.js</b> and full-stack application architecture.
+        Actualmente estoy mejorando mis habilidades en <b>React</b>, <b>Node.js</b> y arquitectura de aplicaciones full-stack.
       </p>
     </td>
     <td width="45%" align="center" style="border: none;">
-      <h2> Tech Stack</h2>
+      <h2> Tecnologías</h2>
       <p><b>Frontend:</b></p>
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,vite"/>
       <p><b>Backend:</b></p>
       <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,dotnet,cs"/>
-      <p><b>Database:</b></p>
+      <p><b>Base de datos:</b></p>
       <img src="https://skillicons.dev/icons?i=mysql"/>
-      <p><b>Cloud & DevOps:</b></p>
+      <p><b>Nube y DevOps:</b></p>
       <img src="https://skillicons.dev/icons?i=aws,docker"/>
-      <p><b>Tools:</b></p>
-      <img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,wordpress,powerbi"/>
+      <p><b>Herramientas:</b></p>
+      <img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,wordpress"/>
+      <p><b>Análisis de Datos:</b></p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
     </td>
   </tr>
 </table>
 <br/>
 
 <div align="center">
-<h2 align="center"> GitHub Stats</h2>
+<h2 align="center"> Estadísticas de GitHub</h2>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosOviedo18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOviedo18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> -->
 
@@ -65,9 +68,9 @@
 </div>
 
   
-<h2 align="center"> Featured Projects</h2>
+<h2 align="center"> Proyectos destacados</h2>
 <!-- ═══════════════════════════════════════════════ -->
-<!-- FEATURED PROJECT – Sircof Coffee               -->
+<!-- PROYECTO DESTACADO – Sircof Coffee             -->
 <!-- ═══════════════════════════════════════════════ -->
 <table align="center" border="0" width="85%">
   <tr>
@@ -75,24 +78,24 @@
       <img width="100%" src="https://github.com/user-attachments/assets/ce87d58f-2662-4294-a68b-b30113e12de9" />
     </td>
     <td width="52%" style="border: none; vertical-align: top; padding-left: 20px;">
-      <h3> Sircof Coffee – E-commerce Platform</h3>
-      <p>Full-stack e-commerce platform developed as a real-world business project.<br/>Product catalog, shopping cart, secure payments and admin logic.</p>
+      <h3> Sircof Coffee – Plataforma E-commerce</h3>
+      <p>Plataforma de comercio electrónico full-stack desarrollada como un proyecto real de negocio.<br/>Catálogo de productos, carrito de compras, pagos seguros y lógica de administración.</p>
       <br/>
       <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git" height="32"/>
       <br/><br/>
       <a href="https://sircof-ecommerce1.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐 Live Demo-00d2ff?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🌐 Demo en vivo-00d2ff?style=for-the-badge"/>
       </a>
       &nbsp;
       <a href="https://github.com/CarlosOviedo18/sircof-ecommerce">
-        <img src="https://img.shields.io/badge/📁 Repo-black?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/📁 Repositorio-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
 </table>
 <br/><br/>
 <!-- ═══════════════════════════════════════════════ -->
-<!-- SMALL PROJECTS GRID                            -->
+<!-- CUADRÍCULA DE PROYECTOS PEQUEÑOS               -->
 <!-- ═══════════════════════════════════════════════ -->
 <table align="center" width="90%">
 <tr>
@@ -100,7 +103,7 @@
     <h4> Coffee Blog</h4>
     <img width="100%" src="https://github.com/user-attachments/assets/398dfdf4-7e68-4c39-add0-e2f74f22458c" />
     <br/><br/>
-    <p>Clean and responsive blog layout focused on content structure.</p>
+    <p>Diseño de blog limpio y responsivo, enfocado en la estructura del contenido.</p>
     <img src="https://skillicons.dev/icons?i=html,css" height="32"/>
     <br/><br/>
     <a href="https://blogdecafecarlosoviedo.netlify.app/">
@@ -115,7 +118,7 @@
     <h4> Music Festival</h4>
     <img width="100%" src="https://github.com/user-attachments/assets/d3455e42-87c1-4009-8fdb-52af874c864f" />
     <br/><br/>
-    <p>Interactive landing page with modern UI and dynamic behavior.</p>
+    <p>Landing page interactiva con interfaz moderna y comportamiento dinámico.</p>
     <img src="https://skillicons.dev/icons?i=html,scss,js" height="32"/>
     <br/><br/>
     <a href="https://festivalmusicacarlosoviedo.netlify.app/">
@@ -130,7 +133,7 @@
     <h4> WebApp JS</h4>
     <img width="100%" src="https://github.com/user-attachments/assets/705eb9c1-fb1f-4595-87a6-109acdb72347" />
     <br/><br/>
-    <p>JavaScript-focused project to practice logic and DOM manipulation.</p>
+    <p>Proyecto centrado en JavaScript para practicar lógica y manipulación del DOM.</p>
     <img src="https://skillicons.dev/icons?i=html,css,js" height="32"/>
     <br/><br/>
     <a href="https://interactivewebjavascriptcarlosoviedo.netlify.app/">
@@ -144,28 +147,48 @@
 </tr>
 <tr>
   <td colspan="3" align="center" style="padding: 12px;">
-    <h4> Supermarket System</h4>
+    <h4> Sistema de Supermercado</h4>
     <img width="32%" src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6" />
     <br/><br/>
-    <p>Full-stack academic project focused on backend logic and CRUD operations.</p>
+    <p>Proyecto académico full-stack enfocado en lógica de backend y operaciones CRUD.</p>
     <img src="https://skillicons.dev/icons?i=java,html,css" height="32"/>
     <br/><br/>
     <a href="https://github.com/CarlosOviedo18/Supermarket-FullStack-Java">
-      <img src="https://img.shields.io/badge/📁 Repo-black?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/📁 Repositorio-black?style=flat-square&logo=github"/>
+    </a>
+  </td>
+</tr>
+  <tr>
+  <td colspan="3" align="center" style="padding: 12px;">
+    <h4> Análisis de Mercado – Café de Costa Rica</h4>
+    <!-- REEMPLAZA el src de abajo por la captura de tu dashboard (súbela arrastrándola al editor del README en GitHub) -->
+    <img width="55%" src="PEGA-AQUÍ-LA-IMAGEN-DEL-DASHBOARD" />
+    <br/><br/>
+    <p>Proyecto de inteligencia de negocios (BI) que analiza 24 tostadores de café de Costa Rica.<br/>Modelo de datos en estrella, medidas DAX y un dashboard interactivo con cumplimiento de requisitos, desempeño digital, precios y geografía.</p>
+    <br/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square"/>
+    <br/><br/>
+    <a href="https://app.powerbi.com/links/s4Mzs6Sz4a?ctid=1d2e59b7-fa25-4404-8b95-d02dd4b7cb98&pbi_source=linkShare">
+      <img src="https://img.shields.io/badge/📊 Dashboard en vivo-F2C811?style=flat-square&logoColor=black"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/CarlosOviedo18/Analisis-Mercado-PowerBI">
+      <img src="https://img.shields.io/badge/📁 Repositorio-black?style=flat-square&logo=github"/>
     </a>
   </td>
 </tr>
 </table>
 <br/>
-<h3 align="center"> Current Focus</h3>
+<h3 align="center"> Enfoque actual</h3>
 <p align="center">
-  • React & modern JavaScript<br/>
-  • Building a full-stack application (React + Node.js + MySQL)<br/>
-  • Writing cleaner and more maintainable code
+  • React y JavaScript moderno<br/>
+  • Construyendo una aplicación full-stack (React + Node.js + MySQL)<br/>
+  • Escribiendo código más limpio y mantenible
 </p>
 <br/>
 <p align="center">
-  💡 Always learning • Building • Improving
+  💡 Siempre aprendiendo • Construyendo • Mejorando
 </p>
 </div>
-
