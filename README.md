@@ -102,11 +102,12 @@
         <li>API en <b>FastAPI</b> e interfaz de chat en <b>Next.js</b> con respuesta en streaming.</li>
       </ul>
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,docker" height="32"/>
+           <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,tailwind,js" height="32"/>
       <br/>
-      <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vector_DB-1C1C1C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Claude_Haiku_4.5-D97757?style=flat-square&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Voyage_AI-6E56CF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-1C1C1C?style=flat-square"/>
       <br/><br/>
       <!-- 👉 Cuando despliegues el demo, descomentá este bloque y pegá la URL:
       <a href="URL_DEL_DEMO">
