@@ -92,7 +92,7 @@
 <!-- 2. Chat RAG de Café (IA aplicada) -->
 <table align="center" border="0" width="85%">
   <tr>
-    <td width="52%" style="border: none; vertical-align: top; padding-right: 20px;">
+    <td width="48%" style="border: none; vertical-align: top; padding-right: 20px;">
       <h3>Chat RAG de Café – Asistente con IA</h3>
       <p>Asistente conversacional que responde preguntas sobre café —variedades, procesos, tueste, métodos de preparación— usando <b>RAG (Retrieval-Augmented Generation)</b> sobre un corpus propio en lugar de depender solo del modelo.</p>
       <ul>
