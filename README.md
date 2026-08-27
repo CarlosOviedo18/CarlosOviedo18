@@ -120,7 +120,7 @@
     </td>
     <td width="48%" style="border: none; vertical-align: middle;">
       <!-- 👉 Reemplazá esta URL por el screenshot o GIF de tu chat funcionando -->
-      <img width="100%" alt="Chat RAG de Café" src="PEGAR_AQUI_LA_IMAGEN_DEL_CHAT" />
+      <img width="100%" alt="Chat RAG de Café" src="https://github.com/user-attachments/assets/f5237738-dd08-481b-b5d7-79d6cde68468" />
     </td>
   </tr>
 </table>
