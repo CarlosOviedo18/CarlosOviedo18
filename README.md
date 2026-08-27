@@ -1,13 +1,11 @@
 <!-- Import Poppins Font -->
 <div style="font-family: 'Poppins', sans-serif;">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
-
 <div align="center">
   <h1 style="font-weight:600;">Carlos Oviedo Ballestero</h1>
   <p><strong>Ingeniero en Sistemas · Desarrollador Full-Stack</strong></p>
   <p>Construyo aplicaciones web reales, de la idea a producción</p>
 </div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-oviedo-135a1426b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,15 +14,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Inglés-B2-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ubicación-Costa%20Rica-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Estado-Disponible-brightgreen?style=for-the-badge"/>
 </p>
-
 <br/>
-
 <table align="center" border="0">
   <tr>
     <td width="55%" style="border: none; vertical-align: top;">
@@ -39,18 +34,22 @@
         plataforma de e-commerce completa para un cliente, incluyendo APIs REST y una pasarela de pagos.
       </p>
       <p>
-        Me apasiona convertir ideas en experiencias digitales útiles, a través del aprendizaje continuo
-        y de tecnologías modernas.
+        Hoy combino ese trabajo full-stack con <b>IA aplicada</b>: sistemas RAG que responden preguntas
+        sobre documentación propia, con recuperación semántica y respuestas citadas.
       </p>
     </td>
     <td width="45%" align="center" style="border: none;">
       <h2>Tecnologías</h2>
       <p><b>Frontend:</b></p>
-      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,vite"/>
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,nextjs,vite"/>
       <p><b>Backend:</b></p>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,dotnet,cs"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,php,dotnet,cs"/>
       <p><b>Base de datos:</b></p>
-      <img src="https://skillicons.dev/icons?i=mysql"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+      <p><b>IA / RAG:</b></p>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Vector_DB-1C1C1C?style=for-the-badge"/>
       <p><b>Nube y DevOps:</b></p>
       <img src="https://skillicons.dev/icons?i=aws,docker"/>
       <p><b>Herramientas:</b></p>
@@ -62,14 +61,11 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 <!-- ═══════════════════════════════════════════════ -->
 <!-- PROYECTOS DESTACADOS                            -->
 <!-- ═══════════════════════════════════════════════ -->
 <h2 align="center">Proyectos destacados</h2>
-
 <!-- 1. Sircof Coffee (proyecto estrella full-stack) -->
 <table align="center" border="0" width="85%">
   <tr>
@@ -92,13 +88,50 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
-<!-- 2. Análisis de Mercado Power BI (dato real, diferenciador) -->
+<!-- 2. Chat RAG de Café (IA aplicada) -->
 <table align="center" border="0" width="85%">
   <tr>
     <td width="52%" style="border: none; vertical-align: top; padding-right: 20px;">
+      <h3>Chat RAG de Café – Asistente con IA</h3>
+      <p>Asistente conversacional que responde preguntas sobre café —variedades, procesos, tueste, métodos de preparación— usando <b>RAG (Retrieval-Augmented Generation)</b> sobre un corpus propio en lugar de depender solo del modelo.</p>
+      <ul>
+        <li><b>Ingesta y chunking</b> de documentos, con embeddings almacenados en base vectorial.</li>
+        <li><b>Búsqueda semántica</b> del contexto más relevante para cada pregunta.</li>
+        <li><b>Respuestas con fuentes citadas</b>, para reducir alucinaciones y hacer verificable cada dato.</li>
+        <li>API en <b>FastAPI</b> e interfaz de chat en <b>Next.js</b> con respuesta en streaming.</li>
+      </ul>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,docker" height="32"/>
+      <br/>
+      <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vector_DB-1C1C1C?style=flat-square"/>
+      <br/><br/>
+      <!-- 👉 Cuando despliegues el demo, descomentá este bloque y pegá la URL:
+      <a href="URL_DEL_DEMO">
+        <img src="https://img.shields.io/badge/Demo_en_vivo-00d2ff?style=for-the-badge"/>
+      </a>
+      &nbsp;
+      -->
+      <a href="https://github.com/CarlosOviedo18/rag-document-chat">
+        <img src="https://img.shields.io/badge/Repositorio-black?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="48%" style="border: none; vertical-align: middle;">
+      <!-- 👉 Reemplazá esta URL por el screenshot o GIF de tu chat funcionando -->
+      <img width="100%" alt="Chat RAG de Café" src="PEGAR_AQUI_LA_IMAGEN_DEL_CHAT" />
+    </td>
+  </tr>
+</table>
+<br/>
+<!-- 3. Análisis de Mercado Power BI -->
+<table align="center" border="0" width="85%">
+  <tr>
+    <td width="48%" style="border: none; vertical-align: middle;">
+      <img width="100%" alt="Dashboard Power BI" src="https://github.com/user-attachments/assets/553020c6-c2ff-4b22-991d-6fe3f12fd155" />
+    </td>
+    <td width="52%" style="border: none; vertical-align: top; padding-left: 20px;">
       <h3>Análisis de Mercado – Café de Costa Rica</h3>
       <p>Proyecto de inteligencia de negocios (BI) que analiza 24 tostadores de café de Costa Rica.<br/>Modelo de datos en estrella, medidas DAX y un dashboard interactivo con cumplimiento de requisitos, desempeño digital, precios y geografía.</p>
       <br/>
@@ -114,21 +147,13 @@
         <img src="https://img.shields.io/badge/Repositorio-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
-    <td width="48%" style="border: none; vertical-align: middle;">
-      <img width="100%" alt="Dashboard Power BI" src="https://github.com/user-attachments/assets/553020c6-c2ff-4b22-991d-6fe3f12fd155" />
-    </td>
   </tr>
 </table>
-
 <br/>
-
-<!-- 3. Sistema de Supermercado (full-stack Java, backend/CRUD) -->
+<!-- 4. Sistema de Supermercado -->
 <table align="center" border="0" width="85%">
   <tr>
-    <td width="48%" style="border: none; vertical-align: middle;">
-      <img width="100%" src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6" />
-    </td>
-    <td width="52%" style="border: none; vertical-align: top; padding-left: 20px;">
+    <td width="52%" style="border: none; vertical-align: top; padding-right: 20px;">
       <h3>Sistema de Supermercado</h3>
       <p>Proyecto full-stack en Java enfocado en la lógica de backend y operaciones CRUD completas.<br/>Gestión de productos, inventario y control de datos.</p>
       <br/>
@@ -138,16 +163,16 @@
         <img src="https://img.shields.io/badge/Repositorio-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
+    <td width="48%" style="border: none; vertical-align: middle;">
+      <img width="100%" src="https://github.com/user-attachments/assets/9284e013-87cf-47b3-ac23-685c495b2ec6" />
+    </td>
   </tr>
 </table>
-
 <br/><br/>
-
 <!-- ═══════════════════════════════════════════════ -->
 <!-- PRÁCTICAS DE FRONTEND (proyectos pequeños)      -->
 <!-- ═══════════════════════════════════════════════ -->
 <h3 align="center">Prácticas de Frontend</h3>
-
 <table align="center" width="90%">
 <tr>
   <td width="33%" align="center" style="padding: 12px;">
@@ -197,9 +222,7 @@
   </td>
 </tr>
 </table>
-
 <br/>
-
 <!-- ═══════════════════════════════════════════════ -->
 <!-- ENFOQUE ACTUAL                                  -->
 <!-- ═══════════════════════════════════════════════ -->
@@ -215,11 +238,3 @@
   <img src="https://img.shields.io/badge/Agentes_IA-0078D4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Optimización_y_Costos-217346?style=flat-square"/>
 </p>
-
-<br/>
-
-<p align="center">
-  Siempre aprendiendo • Construyendo • Mejorando
-</p>
-
-</div>
