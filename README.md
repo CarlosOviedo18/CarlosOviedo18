@@ -118,6 +118,10 @@
       <a href="https://github.com/CarlosOviedo18/rag-document-chat">
         <img src="https://img.shields.io/badge/Repositorio-black?style=for-the-badge&logo=github"/>
       </a>
+            <a href="PEGAR_AQUI_EL_LINK_DEL_VIDEO">
+               <img src="https://img.shields.io/badge/Ver_video_demo-00d2ff?style=for-the-badge&logo=mp4&logoColor=white"/>
+      </a>
+      &nbsp;
     </td>
     <td width="48%" style="border: none; vertical-align: middle;">
       <!-- 👉 Reemplazá esta URL por el screenshot o GIF de tu chat funcionando -->
