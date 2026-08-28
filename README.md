@@ -118,7 +118,7 @@
       <a href="https://github.com/CarlosOviedo18/rag-document-chat">
         <img src="https://img.shields.io/badge/Repositorio-black?style=for-the-badge&logo=github"/>
       </a>
-            <a href="PEGAR_AQUI_EL_LINK_DEL_VIDEO">
+            <a href="https://github.com/user-attachments/assets/b4b59290-a673-4972-a4c8-56b3dff2a451">
                <img src="https://img.shields.io/badge/Ver_video_demo-00d2ff?style=for-the-badge&logo=mp4&logoColor=white"/>
       </a>
       &nbsp;
