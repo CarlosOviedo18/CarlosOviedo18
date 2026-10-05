@@ -174,6 +174,38 @@
   </tr>
 </table>
 <br/><br/>
+
+  <br/>
+<!-- 5. Dashboard de Facturación (Next.js App Router) -->
+<table align="center" border="0" width="85%">
+  <tr>
+    <td width="48%" style="border: none; vertical-align: middle;">
+      <!-- 👉 Reemplazá esta URL por el screenshot del dashboard -->
+      <img width="100%" alt="Dashboard de Facturación" src="https://github.com/user-attachments/assets/73818884-9d84-4828-aa43-3d6d92994b1c" />
+    </td>
+    <td width="52%" style="border: none; vertical-align: top; padding-left: 20px;">
+      <h3>Dashboard de Facturación – Next.js App Router</h3>
+      <p>Aplicación full-stack centrada en el <b>App Router</b> de Next.js: renderizado en el servidor, mutaciones de datos sin capa de API y base de datos PostgreSQL propia en Supabase.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,vercel" height="32"/>
+      <br/>
+      <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Server_Actions-1C1C1C?style=flat-square"/>
+      <br/><br/>
+      <!-- 👉 Cuando esté desplegado, pegá la URL de Vercel acá -->
+      <a href="https://nextjs-dashboard-swart-nu-2pgrvjobgf.vercel.app/">
+        <img src="https://img.shields.io/badge/Demo_en_vivo-00d2ff?style=for-the-badge"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/CarlosOviedo18/nextjs-dashboard">
+        <img src="https://img.shields.io/badge/Repositorio-black?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- ═══════════════════════════════════════════════ -->
 <!-- PRÁCTICAS DE FRONTEND (proyectos pequeños)      -->
 <!-- ═══════════════════════════════════════════════ -->
