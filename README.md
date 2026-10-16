@@ -78,8 +78,8 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mysql,html,css,git" height="32"/>
       <br/><br/>
-      <a href="https://sircof-ecommerce1.vercel.app/">
-        <img src="https://img.shields.io/badge/Demo_en_vivo-00d2ff?style=for-the-badge"/>
+      <a href="https://cafesircof.com/">
+        <img src="https://img.shields.io/badge/Pagina Oficial-00d2ff?style=for-the-badge"/>
       </a>
       &nbsp;
       <a href="https://github.com/CarlosOviedo18/sircof-ecommerce">
